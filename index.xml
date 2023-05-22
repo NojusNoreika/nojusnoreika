@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Blog</title>
+    <link>https://nojusnoreika.github.io/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 May 2023 13:42:51 +0300</lastBuildDate><atom:link href="https://nojusnoreika.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Blog</title>
+      <link>https://nojusnoreika.github.io/posts/myblog/</link>
+      <pubDate>Mon, 22 May 2023 13:42:51 +0300</pubDate>
+      
+      <guid>https://nojusnoreika.github.io/posts/myblog/</guid>
+      <description>Pora sakinių apie nieką ir apie viską tuo pačiu. Vilnius Kaunas Klaipėda visa Lietuva juda be ribų.</description>
+    </item>
+    
+  </channel>
+</rss>
